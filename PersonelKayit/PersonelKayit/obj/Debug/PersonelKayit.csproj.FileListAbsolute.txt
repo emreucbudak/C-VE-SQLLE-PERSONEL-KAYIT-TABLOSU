@@ -1,0 +1,10 @@
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Form1.resources
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\gamee\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
